@@ -1,0 +1,3 @@
+/* The Windows icon (assets/icons/supremacy.ico, converted from the game's icon
+ * from the WHDLoad install's game icon). Resource 1 is also the window icon. */
+1 ICON "../../assets/icons/supremacy.ico"

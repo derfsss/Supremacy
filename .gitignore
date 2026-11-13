@@ -1,0 +1,28 @@
+# Build output
+/build/
+/build-*/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+
+# The game's data and anything made from it: never commit these
+SupremacyData/
+save/
+*.lha
+*.ipf
+*.adf
+SSG[1-4]
+
+# Files the program writes next to itself
+supremacy.cfg
+supremacy.log
+supremacy-replay.log
+
+# Editors and systems
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
